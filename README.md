@@ -37,6 +37,7 @@ Make sure you have the following installed:
 - npm install
 - npm init -y
 - pip install flask pymongo flask-cors
+  
 3.Set Up MongoDB:
 
    - Start MongoDB locally or provide the connection string for a remote database.
