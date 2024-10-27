@@ -41,12 +41,14 @@ Make sure you have the following installed:
 
    - Start MongoDB locally or provide the connection string for a remote database.
 - Make sure the database named wega-telemedicine and the collection orders are created.
+  
 4.Run the Backend: 
 - Start the flask server:
    python3 med1.py in vs code
 - run the Node.js server:
    npm Start
-6.Serve the Frontend:
+  
+5.Serve the Frontend:
 
 - Open login.html in a web browser or use a local server to serve the frontend files.
 
